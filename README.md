@@ -1,4 +1,4 @@
-# TIME SERIES ANALYSIS
+# Time Series Analysis Using Fbprophet 
 Note: This notebook contains codes which were computed during the stage E quiz of Hamoye data science internship,2020
 
 Individual household electric power consumption Data Set
